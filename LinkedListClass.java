@@ -1,5 +1,5 @@
 /**
- * Simple implementation of LinkedList data structure for Integer type data only.
+ * Simple generic implementation of LinkedList data structure.
  * 
  * @author Shivam Kapoor
  *
